@@ -1,0 +1,11 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); */
+.icon {
+    color: #000;
+    transition: color 0.5s ease-in-out;
+}
+.type::placeholder{
+    color: #805b6d
+}
+.type:disabled{
+    background-color: white;
+}
